@@ -1,0 +1,31 @@
+<actors>
+<actor id="a1">
+<name>
+<firstname>Al</firstname>
+<lastname>Pacino</lastname>
+</name>
+<filmography>
+<movie_id>m1</movie_id>
+<movie_id>m2</movie_id>
+</filmography>
+</actor>
+<actor id="a2">
+<name>
+<firstname>Brad</firstname>
+<lastname>Pitt</lastname>
+</name>
+<filmography>
+<movie_id>m1</movie_id>
+<movie_id>m3</movie_id>
+</filmography>
+</actor>
+<actor id="a3">
+<name>
+<firstname>John</firstname>
+<lastname>Peter</lastname>
+</name>
+<filmography>
+<movie_id>m2</movie_id>
+</filmography>
+</actor>
+</actors>

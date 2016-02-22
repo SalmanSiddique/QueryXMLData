@@ -1,0 +1,40 @@
+<movies>
+<movie id="m1">
+<title>FirstMovie</title>
+<year>2012</year>
+<director>D1</director>
+<genres>
+<genre>Comedy</genre>
+<genre>Drama</genre>
+</genres>
+<cast>
+<actor_id>a1</actor_id>
+<actor_id>a2</actor_id>
+</cast>
+</movie>
+<movie id="m2">
+<title>SecondMovie</title>
+<year>2011</year>
+<director>D2</director>
+<genres>
+<genre>Romance</genre>
+<genre>Drama</genre>
+</genres>
+<cast>
+<actor_id>a1</actor_id>
+<actor_id>a3</actor_id>
+</cast>
+</movie>
+<movie id="m3">
+<title>ThirdMovie</title>
+<year>2012</year>
+<director>D1</director>
+<genres>
+<genre>Suspense</genre>
+<genre>ACtion</genre>
+</genres>
+<cast>
+<actor_id>a2</actor_id>
+</cast>
+</movie>
+</movies>

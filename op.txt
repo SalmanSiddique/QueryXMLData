@@ -1,0 +1,20 @@
+XPath query: //article[authors/author='David Maier']/title
+<title>Fragments of Relations.</title><title>Windows on the World.</title>
+
+XPath query: //article[authors/author[@position='00']='David Maier']/title
+<title>Fragments of Relations.</title><title>Windows on the World.</title>
+
+XPath query: //article[authors/author='David Maier' and authors/author='Stanley B. Zdonik']/title
+BLANK
+
+XPath query: //issue[volume='19' or number='2']/articles/article/title
+<title>Actual Conversion Experiences.</title><title>Conversion Technology, An Assessment.</title><title>Data Base Directions II: The Conversion Problem - Editorial.</title><title>Establishing Management Objectives.</title><title>Evolution in Computer Systems.</title><title>Standards.</title><title>An Approach to the User Interface and Semantic Integrity for a Relational DBMS.</title><title>Comments on Optimality of B-Trees.</title><title>Constraints: Consistency and Integrity.</title><title>Deadlock Detection is Cheap.</title><title>Fixing Pages in Database Buffer.</title><title>The Optimal Selection of Secondary Indices is NP-Complete.</title><title>Why Sort-Merge Gives the Best Implementation of the Natural Join.</title>
+
+
+//jim gray is in volume=13 number=4
+XPath query: //issue[contains(volume,'19') or contains(number,'2')]/articles/article[authors/author='Jim Gray']/*[self::title or self::initPage or self::endPage]
+BLANK
+
+
+XPath query: //issue[articles/article/authors/author='David Maier']/*[self::volume or self::number]
+<volume>13</volume><number>4</number>

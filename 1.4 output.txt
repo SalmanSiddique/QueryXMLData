@@ -1,0 +1,13 @@
+  <title>Actual Conversion Experiences.</title>
+  <title>Conversion Technology, An Assessment.</title>
+  <title>Data Base Directions II: The Conversion Problem - Editorial.</title>
+  <title>Establishing Management Objectives.</title>
+  <title>Evolution in Computer Systems.</title>
+  <title>Standards.</title>
+  <title>An Approach to the User Interface and Semantic Integrity for a Relational DBMS.</title>
+  <title>Comments on Optimality of B-Trees.</title>
+  <title>Constraints: Consistency and Integrity.</title>
+  <title>Deadlock Detection is Cheap.</title>
+  <title>Fixing Pages in Database Buffer.</title>
+  <title>The Optimal Selection of Secondary Indices is NP-Complete.</title>
+  <title>Why Sort-Merge Gives the Best Implementation of the Natural Join.</title>
